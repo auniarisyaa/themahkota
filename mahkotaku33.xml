@@ -1,0 +1,169 @@
+<?xml-stylesheet type="text/xsl" href="mahkotaku22.xsl"?>
+
+	<shawl>
+		<details>
+		<shawlcollection>Syahirah Shawl</shawlcollection>
+		<shawlname> Night </shawlname>
+		<shawlcolor>Black</shawlcolor>
+		<shawlprice>RM39</shawlprice>
+		<shawlmaterial>Soft Korean Chiffon</shawlmaterial>
+		<shawldesign>Straight Cut</shawldesign>
+		<length>1.9m</length>
+		<width>0.65m</width>
+		<opacity>80%</opacity>
+		<finishing>Babyseam</finishing>
+		</details>
+	
+		
+		
+		<details>
+		<shawlcollection>Syahirah Shawl</shawlcollection>
+		<shawlname> Cardinal</shawlname>
+		<shawlcolor>Red</shawlcolor>
+		<shawlprice>RM39</shawlprice>
+		<shawlmaterial>Soft Korean Chiffon</shawlmaterial>
+		<shawldesign>Straight Cut</shawldesign>
+		<length>1.9m</length>
+		<width>0.65m</width>
+		<opacity>80%</opacity>
+		<finishing>Babyseam</finishing>
+		</details>
+		
+		
+		<details>
+		<shawlcollection>Syahirah Shawl</shawlcollection>
+		<shawlname> Lime</shawlname>
+		<shawlcolor>Green</shawlcolor>
+		<shawlprice>RM39</shawlprice>
+		<shawlmaterial>Soft Korean Chiffon</shawlmaterial>
+		<shawldesign>Straight Cut</shawldesign>
+		<length>1.9m</length>
+		<width>0.65m</width>
+		<opacity>80%</opacity>
+		<finishing>Babyseam</finishing>
+		</details>
+		
+		
+		<details>
+		<shawlcollection>Syahirah Shawl</shawlcollection>
+		<shawlname> Shiloh</shawlname>
+		<shawlcolor>Pink</shawlcolor>
+		<shawlprice>RM39</shawlprice>
+		<shawlmaterial>Soft Korean Chiffon</shawlmaterial>
+		<shawldesign>Straight Cut</shawldesign>
+		<length>1.9m</length>
+		<width>0.65m</width>
+		<opacity>80%</opacity>
+		<finishing>Babyseam</finishing>
+		</details>
+		
+		
+		<details>
+		<shawlcollection>Nour Shawl</shawlcollection>
+		<shawlname> Thunder </shawlname>
+		<shawlcolor>Black</shawlcolor>
+		<shawlprice>RM49</shawlprice>
+		<shawlmaterial>Polkadot Satin</shawlmaterial>
+		<shawldesign>End Curve</shawldesign>
+		<length>1.8m</length>
+		<width>0.65m</width>
+		<opacity>90%</opacity>
+		<finishing>Flatlock</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Nour Shawl</shawlcollection>
+		<shawlname> Ruby </shawlname>
+		<shawlcolor>Red</shawlcolor>
+		<shawlprice>RM49</shawlprice>
+		<shawlmaterial>Polkadot Satin</shawlmaterial>
+		<shawldesign>End Curve</shawldesign>
+		<length>1.8m</length>
+		<width>0.65m</width>
+		<opacity>90%</opacity>
+		<finishing>Flatlock</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Nour Shawl</shawlcollection>
+		<shawlname> Emerald </shawlname>
+		<shawlcolor>Green</shawlcolor>
+		<shawlprice>RM49</shawlprice>
+		<shawlmaterial>Polkadot Satin</shawlmaterial>
+		<shawldesign>End Curve</shawldesign>
+		<length>1.8m</length>
+		<width>0.65m</width>
+		<opacity>90%</opacity>
+		<finishing>Flatlock</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Nour Shawl</shawlcollection>
+		<shawlname> Guava </shawlname>
+		<shawlcolor>Pink</shawlcolor>
+		<shawlprice>RM49</shawlprice>
+		<shawlmaterial>Polkadot Satin</shawlmaterial>
+		<shawldesign>End Curve</shawldesign>
+		<length>1.8m</length>
+		<width>0.65m</width>
+		<opacity>90%</opacity>
+		<finishing>Flatlock</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Haura Shawl</shawlcollection>
+		<shawlname> Charcoal</shawlname>
+		<shawlcolor>Black</shawlcolor>
+		<shawlprice>RM69</shawlprice>
+		<shawlmaterial>Heavy Chiffon</shawlmaterial>
+		<shawldesign>Pleated</shawldesign>
+		<length>2.0m</length>
+		<width>0.60m</width>
+		<opacity>85%</opacity>
+		<finishing>Eyelash</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Haura Shawl</shawlcollection>
+		<shawlname> Persian</shawlname>
+		<shawlcolor>Red</shawlcolor>
+		<shawlprice>RM69</shawlprice>
+		<shawlmaterial>Heavy Chiffon</shawlmaterial>
+		<shawldesign>Pleated</shawldesign>
+		<length>2.0m</length>
+		<width>0.60m</width>
+		<opacity>85%</opacity>
+		<finishing>Eyelash</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Haura Shawl</shawlcollection>
+		<shawlname> Eucalyptus</shawlname>
+		<shawlcolor>Green</shawlcolor>
+		<shawlprice>RM69</shawlprice>
+		<shawlmaterial>Heavy Chiffon</shawlmaterial>
+		<shawldesign>Pleated</shawldesign>
+		<length>2.0m</length>
+		<width>0.60m</width>
+		<opacity>85%</opacity>
+		<finishing>Eyelash</finishing>
+		</details>
+		
+		<details>
+		<shawlcollection>Haura Shawl</shawlcollection>
+		<shawlname> Taffy</shawlname>
+		<shawlcolor>Pink</shawlcolor>
+		<shawlprice>RM69</shawlprice>
+		<shawlmaterial>Heavy Chiffon</shawlmaterial>
+		<shawldesign>Pleated</shawldesign>
+		<length>2.0m</length>
+		<width>0.60m</width>
+		<opacity>85%</opacity>
+		<finishing>Eyelash</finishing>
+		</details>
+		
+		
+
+	</shawl>
+
+ 
